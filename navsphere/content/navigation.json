@@ -6,7 +6,16 @@
       "icon": "Link",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1754380348008",
+          "title": "数字营销",
+          "href": "https://dm-mng.elab-plus.cn/damai/index.html#/",
+          "description": "",
+          "icon": "/assets/favicon_1754380374616.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
