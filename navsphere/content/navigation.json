@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1754380316366",
+      "title": "私有收藏",
+      "icon": "Link",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -842,15 +851,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1754380316366",
-      "title": "私有收藏",
-      "icon": "Link",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
