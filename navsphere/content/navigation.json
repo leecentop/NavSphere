@@ -842,6 +842,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754380316366",
+      "title": "私有收藏",
+      "icon": "Link",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
