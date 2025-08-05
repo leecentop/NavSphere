@@ -14,6 +14,14 @@
           "description": "",
           "icon": "/assets/favicon_1754380374616.ico",
           "enabled": true
+        },
+        {
+          "id": "1754380403742",
+          "title": "小程序配置后台",
+          "href": "https://dm-mng.elab-plus.cn/web/#/pages/login",
+          "description": "",
+          "icon": "/assets/favicon_1754380430663.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
