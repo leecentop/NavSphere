@@ -92,6 +92,14 @@
           "description": "Beautiful & consistent icon toolkit made by the community.",
           "icon": "/assets/favicon_1754229702059.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754377625837_dxx34uhbg",
+          "title": "大麦数字营销",
+          "href": "https://dm-mng.elab-plus.cn/damai/index.html#/",
+          "description": "生产环境大麦数字营销",
+          "icon": "/assets/favicon_1754377593912.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
